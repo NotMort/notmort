@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mort 👋
 
-<!--
-**NotMort/notmort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Data Science Student | Master’s in Computer Science
 
-Here are some ideas to get you started:
+I am focused on building scalable backend systems and exploring how data can drive real solutions. I enjoy working with modern web technologies and continuously growing my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Tech Stack
+
+**Languages and Frameworks**
+- Java (Spring Boot)
+- JavaScript (Next.js, Express, NestJS)
+
+**Areas of Interest**
+- Backend Engineering
+- Data Science and Machine Learning
+- Distributed Systems and APIs
+
+---
+
+### 🎯 Current Focus
+- Master’s studies in Computer Science  
+- Improving cloud-native backend development skills
+
+---
+
+### 🌍 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/martin-gruber-280399304/)
+
+---
+
+Thanks for visiting my profile. Let’s build something great.
