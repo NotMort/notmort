@@ -1,7 +1,7 @@
 ## Hi, I'm Mort 
 
 Backend Enthusiast | Master’s Student in Data Science | Bachelor’s in Computer Science 
-Feel free to connect with me here:
+!Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mort-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-gruber-280399304/)](https://www.linkedin.com/in/martin-gruber-280399304/)
 [![Instagram Badge](https://img.shields.io/badge/-not.mort-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/not.mort/)](https://www.instagram.com/not.mort/)
